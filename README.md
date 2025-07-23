@@ -22,6 +22,7 @@ Skalowanie elementów względem rozmiaru okna przeglądarki
 Prosta detekcja kolizji oraz elementy logiki checkpointów
 
 Uruchamianie
+
 Sklonuj repozytorium:
 
 bash
